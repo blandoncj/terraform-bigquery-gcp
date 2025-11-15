@@ -21,8 +21,8 @@ Infrastructure as Code (IaC) project for automating the creation and management 
 - [Outputs](#outputs)
 - [Security](#security)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 - [License](#license)
+- [Author](#author)
 
 ## 🎯 Overview
 
@@ -438,30 +438,6 @@ terraform state list
 terraform validate
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-### Code Standards
-
-- Follow Terraform best practices
-- Add comments for complex logic
-- Update documentation for new features
-- Test changes before submitting PR
-
-## 📚 Additional Resources
-
-- [Terraform Documentation](https://www.terraform.io/docs)
-- [Google Cloud BigQuery Docs](https://cloud.google.com/bigquery/docs)
-- [Terraform Google Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
-- [BigQuery Best Practices](https://cloud.google.com/bigquery/docs/best-practices)
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -469,23 +445,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ✍️ Author
 
 **Jacob Oblandon**
-- GitHub: [@jacoboblandon](https://github.com/jacoboblandon)
+- GitHub: [blandoncj](https://github.com/blandoncj)
 - Email: jacoboblandon94@gmail.com
-
-## 🙏 Acknowledgments
-
-- Thanks to the Terraform community for excellent documentation
-- Google Cloud Platform for providing robust infrastructure services
-- HashiCorp for creating Terraform
-
----
-
-## 📊 Project Status
-
-✅ **Status**: Active and maintained  
-🔄 **Last Updated**: November 2024  
-📌 **Version**: 1.0.0
-
----
-
-**Made with ❤️ using Terraform and Google Cloud Platform**
