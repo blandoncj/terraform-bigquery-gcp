@@ -6,6 +6,8 @@
 
 Infrastructure as Code (IaC) project for automating the creation and management of Google Cloud BigQuery datasets and tables using Terraform.
 
+![Project Preview](docs/preview.png)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
